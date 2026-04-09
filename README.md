@@ -40,7 +40,7 @@ hi also check other links below
 <p align="center">
   <a href="https://en.pronouns.page/@dreamayazakii" style="color:#ffffff; text-decoration:none;">en.prns</a> ⊹
   <a href="https://akiixoxo.atabook.org/" style="color:#ffffff; text-decoration:none;">atabook</a> ⊹
-  <a href="https://youtu.be/DLzxrzFCyOs?si=XgcTSzbCFYljQ3QU" style="color:#ffffff; text-decoration:none;">strwpage</a> ⊹
+  <a href="https://youtu.be/QDia3e12czc?si=zor3Y_Bu6mW4J8cq" style="color:#ffffff; text-decoration:none;">strwpage</a> ⊹
   <a href="https://rentry.co/akihorsetown/" style="color:#ffffff; text-decoration:none;">rentry</a>
 
 </p>
