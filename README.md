@@ -40,13 +40,13 @@ hi also check other links below
 <p align="center">
   <a href="https://en.pronouns.page/@dreamayazakii" style="color:#ffffff; text-decoration:none;">en.prns</a> ⊹
   <a href="https://akiixoxo.atabook.org/" style="color:#ffffff; text-decoration:none;">atabook</a> ⊹
-  <a href="https://akimeowuhh.straw.page/" style="color:#ffffff; text-decoration:none;">strwpage</a> ⊹
+  <a href="https://youtu.be/DLzxrzFCyOs?si=XgcTSzbCFYljQ3QU" style="color:#ffffff; text-decoration:none;">strwpage</a> ⊹
   <a href="https://rentry.co/akihorsetown/" style="color:#ffffff; text-decoration:none;">rentry</a>
 
 </p>
 
 <p align="center">
- <a href="https://hits.sh/github.com/suprcutie/hits/"><img alt="Hits" src="https://hits.sh/github.com/suprcutie/hits.svg?style=plastic&label=visitors&color=202020&labelColor=000000"/></a>
+<a href="https://hits.sh/github.com/akiixoxo/"><img alt="Hits" src="https://hits.sh/github.com/akiixoxo.svg?style=plastic&label=visitors&extraCount=68&color=000000&labelColor=000000"/></a>
 </p>
 
 <p align="center">════════════════════════════════════════</p>
