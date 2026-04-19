@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="314" src="https://github.com/user-attachments/assets/99f46a58-5979-4fb8-931e-78355ce9e974" />
+  <img width="600" height="100" src="https://github.com/user-attachments/assets/99f46a58-5979-4fb8-931e-78355ce9e974" />
 </p>
 
 <!-- made by iyeyas (github & discord) -->
@@ -52,7 +52,7 @@ hi also check other links below
 <p align="center">════════════════════════════════════════</p>
 
 <p align="center">
-  <img width="600" height="314" src="https://github.com/user-attachments/assets/60418ef7-901b-42e9-9a5a-6cd576abc212" />
+  <img width="600" height="100" src="https://github.com/user-attachments/assets/60418ef7-901b-42e9-9a5a-6cd576abc212" />
 </p>
 
 <h5 align="center">
